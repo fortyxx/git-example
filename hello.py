@@ -1,3 +1,3 @@
-print('hello python & git')
+:qprint('hello python & git')
 add other line
 change this file again
